@@ -1,2 +1,5 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Decide what time to eat
+4. Decide how much you're going to eat
+5. Decide you're never going to eat again
